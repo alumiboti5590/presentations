@@ -8,8 +8,6 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 
 # FIRST Robotics Introduction for Students
 
-##### Made for 2022
-
 <br/><br/><br/><br/>
 
 ## St. Joseph's Collegiate Institute
