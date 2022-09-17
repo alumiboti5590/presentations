@@ -141,14 +141,6 @@ A robotics team takes more than just engineering. It requires individuals intere
 
 <!-- _class: lead -->
 
-# Wherever Your Interests Lie, There is a Spot for You
-
-![bg left 70%](https://m.media-amazon.com/images/I/81-LMf74UlL._AC_SL1500_.jpg)
-
----
-
-<!-- _class: lead -->
-
 # What's the Timeline Look Like?
 
 ---
@@ -210,6 +202,61 @@ Our team's usual regional is hosted at the Rochester Institute of Technology (R.
 Teams that win regionals - or special awards - are invited to the **World Championships**, where they compete against the best-of-the best FRC teams in the world.
 
 Pending budget, team size, and robot completion, the team _may_ attend a second regional event, but that is unknown at this time.
+
+---
+
+<!-- _class: lead -->
+
+# Why Are Mentors Needed?
+
+---
+
+## Why Are Mentors Needed?
+
+Mentors across different disciplines are there to guide students to ask questions, discover, and grow.
+
+- Promote a safe environment of learning & communication
+- Promote **Coopertition** and **Gracious Professionalism**
+- Keep expectations realistic & deadlines achievable
+- _Guide students (& other mentors) to be their best!_
+
+---
+
+## What Do You Need to Do to Mentor?
+
+Each mentor's committment is dependent on their life outside the team. Give what you can, and it is always appreciated
+
+- Attend team meetings in a periodic manner
+- Be open & transparent with students & other mentors
+- Be _at least_ one step ahead of the students where possible
+- Practice the best safety & teamwork principles
+
+**You don't need to know _any_ about robotics to mentor a team!** <br/>You don't even have to work on the robot if you don't want
+
+---
+
+## What Do You Get for Mentoring?
+
+- Knowledge & experience across many different disciplines
+- The space to get creative; whether through design, building, or art
+- A vast network of engineers, leaders, managers, and smart students from around the region/state/country/world!
+- The ability to positively influence the student team members
+
+> Participating in & mentoring an FRC team is one of the most rewarding experiences I've had in my life. I credit where I am in life due to FIRST.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dan Starner
+
+---
+
+## What's Next for a Perspective Mentor?
+
+1. Give us your contact information!
+1. Decide what areas & tasks interest you the most
+1. E-sign the forms needed by FIRST to work with the students
+1. Attend & shadow your first meeting with the team
+1. Bring a good attitude & willingness to learn!
+
+As you foster a relationship with the team, your roles, responsibilities, & committment will evolve into what you envision for yourself.
+
 
 ---
 
