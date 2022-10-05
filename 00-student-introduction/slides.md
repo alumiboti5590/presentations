@@ -14,6 +14,29 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 
 ---
 
+<!-- Dan was the one giving this presentation, hence this slide -->
+
+### Who am I?
+
+- Class of 2015
+- Software Engineer @ Salesforce / Heroku
+- Team mentor
+  - Previously mentored Team 354, the G-House Pirates out of Brooklyn, New York
+- Assists with:
+  - Programming
+  - Manufacturing
+  - Public Relations
+
+![bg right:25%](./assets/Dan_Starner_Photo.jpg)
+
+---
+
+<!-- _class: lead -->
+
+# What is FIRST?
+
+---
+
 ## What is FIRST?
 
 [_FIRST_’s](https://firstinspires.org/) goal is to inspire young people to be science and technology leaders and innovators.
@@ -231,7 +254,19 @@ We will give you the tools to grow & develop across multiple disciplines
 
 We will give you as much responsibility as you want
 
---- 
+---
+
+## What is Next?
+
+- We will invite you to [Basecamp](https://basecamp.com/), our communication, task, and event management tool
+- Follow our social accounts
+  - [Twitter](https://twitter.com/alumiboti5590): `@alumiboti5590`
+  - [Instagram](https://instagram.com/alumiboti5590): `@alumiboti5590`
+- For now, **keep Wednesdays free** for more meetings
+  - We may change dates/times based on availability
+  - Weekly workshops around safety, programming basics, working with the power tools, and more
+
+---
 
 <!-- _class: lead -->
 
